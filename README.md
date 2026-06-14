@@ -43,6 +43,10 @@ The system uses the following AI techniques to organize files:
 - scikit-learn for AI/ML
 - Tailwind CSS for styling
 - Vue.js for frontend interactivity
-- Watchdog for file system monitoring---
+- Watchdog for file system monitoring
+
+---
+
 ### Portfolio
-See more of my work at [https://www.aaravkashyap.live/](https://www.aaravkashyap.live/).
+
+See more of my work at [https://www.aaravkashyap.live/](https://www.aaravkashyap.live/)..
